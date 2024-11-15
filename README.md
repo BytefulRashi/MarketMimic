@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your **MarketMimic** project:
 
-```markdown
 # MarketMimic
 
 **MarketMimic** is a Virtual Trading Platform built using the MERN stack, enabling users to simulate realistic stock trading with real-time data and automated trading features. The platform supports over 100+ users and allows for customizable price thresholds to trigger automated trades. It provides an interactive, user-friendly experience with live stock price updates, historical price visualization, and transaction tracking.
